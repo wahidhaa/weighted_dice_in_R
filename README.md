@@ -24,5 +24,8 @@ Programming with R](https://rstudio-education.github.io/hopr/project-1-weighted-
    fair-dice distribution.
 
 # How to run:
-1. Run the code in R or RStudio.
+1. Install ggplot2 in R or RStudio.
+
+         install.packages("ggplot2")
    
+2. Source "weighted_dice" in R or RStudio.
