@@ -28,4 +28,6 @@ Programming with R](https://rstudio-education.github.io/hopr/project-1-weighted-
 
          install.packages("ggplot2")
    
-2. Source "weighted_dice" in R or RStudio.
+2. Clone repository.
+3. Source "weighted_dice_script" in R or RStudio.
+4. Run code and save results.
