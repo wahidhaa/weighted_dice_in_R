@@ -6,7 +6,7 @@ and compares the two distributions. Based on Project 1 of [Hands-On
 Programming with R](https://rstudio-education.github.io/hopr/project-1-weighted-dice.html) by Garrett Grolemund:
 
 
-# What it does:
+## What it does:
 1. Defines roll(), which simulates rolling two fair six-sided dice
    and returns their sum.
 
@@ -23,11 +23,10 @@ Programming with R](https://rstudio-education.github.io/hopr/project-1-weighted-
    comparison -- it should be shifted noticeably higher than the
    fair-dice distribution.
 
-# How to run:
+## How to run:
 1. Install ggplot2 in R or RStudio.
 
          install.packages("ggplot2")
    
-2. Clone repository.
-3. Source "weighted_dice_script" in R or RStudio.
-4. Run code and save results.
+2. Source "weighted_dice_script" in R or RStudio.
+3. Run code and save results.
